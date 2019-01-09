@@ -1,0 +1,10 @@
+"asset_feed_spec":{
+'images': [{'hash': '82f68bfa28e571f3cb52cf527323bd75'}, {'hash': 'b8235fb2b4f0f0c4bfc6fcae419166d8'}],
+'bodies': [{'text': 'Begin Your Adventure'}, {'text': 'Once a Trainer, always a Trainer.'}],
+'call_to_action_types':["LEARN_MORE"],
+'call_to_actions':[{"type": "LEARN_MORE"}] ,
+'titles': [{'text': 'Level Up'}, {'text': 'Swipe to evolve'}],
+'descriptions': [{'text': 'Begin Your Adventure'}],
+'ad_formats': ['SINGLE_IMAGE'],
+'link_urls': [{'website_url': 'http://www.newengen.com'}]
+}
